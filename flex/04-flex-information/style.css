@@ -24,3 +24,51 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+/* solution */
+
+.title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 32px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+
+.barberry {
+  display: flex;
+  flex-direction: column;
+  max-width: 200px;
+  align-items: center;
+}
+
+.chili {
+  display: flex;
+  flex-direction: column;
+  max-width: 200px;
+  align-items: center;
+}
+  
+  .pepper {
+  display: flex;
+  flex-direction: column;
+  max-width: 200px;
+  align-items: center;
+}
+
+.saffron {
+  display: flex;
+  flex-direction: column;
+  max-width: 200px;
+  align-items: center;
+}
+
+.text {
+  margin-top: 5px;
+  text-align: center;
+}
